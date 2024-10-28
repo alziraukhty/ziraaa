@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Biodata zira</title>
+    <link rel="stylesheet" href="styles/style.css">
+  </head>
+
+  <body>
+    <header style="background : black">
+      <h1 style="color : pink"><marquee>My Biodata</marquee></h1>
+      <h3 style="color:lightblue">-----------------------------------</h3>
+      <p style="color : pink">HALO SELAMAT DATANG DI PROFILL SAYA!!</p>
+      <h3 style= "color:lightblue"</header>
+      -----------------------------------</h3>
+      
+
+      <nav style="background : black">
+        <ul>
+          <li>
+            <a href="#sejarah">Penjelasan singkat</a>
+          </li>
+          <li>
+            <a href="#geografis">Hobi</a>
+          </li>
+          <li>
+            <a href="#wisata">Makanan Kesukaan</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main  style="background:black">
+      <!-- Konten artikel -->
+      <div id="content">
+        <article id="Penjelasan Singkat">
+          <h2 style="color:pink">Tentang Saya!</h2>
+          <img src="images/jira.jpg" alt="sejarah" width="150px"/>
+       <p style="color: lightblue">
+            HAI HAI! Perkenalkan nama saya alzira ukhty zaskia,Umur saya 16 tahun,saya kelas Xl dan saya bersekolah di SMKN9 medan
+          </p>
+
+        </article>
+
+        <article id="hobi">
+          <h2 style="color:pink"  >Hobi saya!</h2>
+          <img src="images/nynyi.jpg" alt="geografis" width="150px"/>
+          <p style="color:lightblue;">
+            HMM hobi apayahhh..<br>
+            kalo hobi sih saya suka nyanyi  hehehe!
+          </p>
+
+          
+        </article>
+
+        <article id="makanan kesukaan">
+          <h2 style="color:pink">Makanan favorit Saya</h2>
+          <img src="images/es.jpg" alt="makanan" width="150px">
+          <p style="color:lightblue">
+           Saya suka makanan yang berhubungan sama matcha terutama ice cream matcha         </p>
+
+         </article>
+    
+  </body>
+</html>
